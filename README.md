@@ -13,10 +13,11 @@ Inspired by [FruitBots](http://fruitbots.org/)
 ## Rules
 
 The rules of the game are the following:
-● The robots can perform only one action at a time, moves (North, South, East, West) or collects
+
+1. The robots can perform only one action at a time, moves (North, South, East, West) or collects
 fruit.
-● Both robots move simultaneously.
-● If both collect the same fruit, it is destroyed.
+2. Both robots move simultaneously.
+3. If both collect the same fruit, it is destroyed.
 
 ### Prerequisites
 
