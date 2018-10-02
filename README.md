@@ -8,8 +8,6 @@ The IA technique is **decision trees**.
 
 Inspired by [FruitBots](http://fruitbots.org/)
 
-![Game](Imagenes/game.png)
-
 ## Rules
 
 The rules of the game are the following:
@@ -30,3 +28,4 @@ Version 2 is required.
 
 Developed in May 2015 
 
+<img src="Imagenes/game.png" alt="game" width="500"/>
